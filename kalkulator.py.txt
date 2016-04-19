@@ -4,3 +4,6 @@ print(2)
 
 def drukuj:
 	print 3
+
+def drukuj1:
+	print 4
